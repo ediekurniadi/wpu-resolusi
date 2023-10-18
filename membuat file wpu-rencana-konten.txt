@@ -3,6 +3,8 @@ RENCANA KONTEN WPU
 - Javasscript
   * ES6
   * Framework Javascript
+    ^ Angular
+    ^ React
 - PHP Framework
 - Interview
 - Vlogss
